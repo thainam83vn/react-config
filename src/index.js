@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 class Welcome extends React.Component {
   render() {
-    return <div>Welcome to React 4</div>;
+    return <div>Welcome to React Beta 1</div>;
   }
 }
 
